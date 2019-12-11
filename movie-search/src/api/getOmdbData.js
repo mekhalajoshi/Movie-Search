@@ -1,4 +1,4 @@
-const PATH_BASE = 'http://www.omdbapi.com/?apikey=5d9a0e5e'
+const PATH_BASE = 'https://www.omdbapi.com/?apikey=5d9a0e5e'
 const PARAM_SEARCH_TITLE = '&s='
 const PARAM_SEARCH_ID = '&i='
 
